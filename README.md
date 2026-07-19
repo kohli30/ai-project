@@ -1,7 +1,7 @@
 # 🌼 Pollinator Population & Crop Yield Prediction using Machine Learning
 
 <p align="center">
-  <img src="ima/pollinators_vs_yield.png" width="850">
+  <img src="images/pollinators_vs_yield.png" width="850">
 </p>
 
 <p align="center">
