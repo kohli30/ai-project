@@ -1,7 +1,7 @@
 # 🌼 Pollinator Population & Crop Yield Prediction using Machine Learning
 
 <p align="center">
-  <img src="figures/pollinators_vs_yield.png" width="850">
+  <img src="ima/pollinators_vs_yield.png" width="850">
 </p>
 
 <p align="center">
@@ -111,7 +111,7 @@ Visualization
 This graph illustrates how pollinator populations have changed over time and highlights long-term ecological trends.
 
 <p align="center">
-<img src="figures/pollinators_over_years.png" width="800">
+<img src="images/pollinators_over_years.png" width="800">
 </p>
 
 ---
@@ -121,7 +121,7 @@ This graph illustrates how pollinator populations have changed over time and hig
 Scatter plot showing the relationship between pollinator population and agricultural crop yield.
 
 <p align="center">
-<img src="figures/pollinators_vs_yield.png" width="800">
+<img src="images/pollinators_vs_yield.png" width="800">
 </p>
 
 ---
@@ -131,7 +131,7 @@ Scatter plot showing the relationship between pollinator population and agricult
 Comparison between the model's predictions and the actual crop yield values.
 
 <p align="center">
-<img src="figures/actual_vs_predicted.png" width="800">
+<img src="images/actual_vs_predicted.png" width="800">
 </p>
 
 ---
